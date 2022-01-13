@@ -16,6 +16,8 @@
 # Reference for:
 #   Structure
 #
+# USAGE : python3 mssqlclient.py USERNAME:PASSWORD@IP -windows-auth
+# 
 
 from __future__ import division
 from __future__ import print_function
